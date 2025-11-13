@@ -1,0 +1,30 @@
+:root{
+    --cinza-azulado: #0D2439;
+    --cinza-claro: #8294A6;
+    --bege-golden: #D8C2A3;
+    --preto-claro: #282F37;
+    --preto-azulado: #172B3E;
+    --creme: #EADDBD;
+
+}
+body{
+    background-color: var(--preto-azulado);
+}
+
+.img{
+  height: 500px;
+  width: 300px;
+  border-radius: 10%;
+  margin-top: 200px;
+  margin-left: 800px;
+
+
+}
+.img2{
+display: flex;
+align-items: center;
+align-content: center;
+
+}
+
+
